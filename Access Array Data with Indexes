@@ -1,0 +1,2 @@
+var myArray = [20,30,40];
+var myData = myArray[0];
